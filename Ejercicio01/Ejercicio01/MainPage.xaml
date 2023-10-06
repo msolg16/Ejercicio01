@@ -21,10 +21,10 @@
                 <Button x:Name="Item6" Text="EntryCode" Clicked="Item6_Clicked"/>
             </StackLayout>
             <StackLayout>
-                <Button x:Name="Item8" Text="LabelDemo"/>
-                <Button x:Name="Item9" Text="LabelCode"/>
-                <Button x:Name="Item10" Text="LocalImage"/>
-                <Button x:Name="Item11" Text="Embedded Image"/>
+                <Button x:Name="Item8" Text="LabelDemo" Clicked="Item8_Clicked"/>
+                <Button x:Name="Item9" Text="LabelCode" Clicked="Item9_Clicked"/>
+                <Button x:Name="Item10" Text="LocalImage" Clicked="Item10_Clicked"/>
+                <Button x:Name="Item11" Text="Embedded Image" Clicked="Item11_Clicked"/>
             </StackLayout>
         </StackLayout>
     </StackLayout>
