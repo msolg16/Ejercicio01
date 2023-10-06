@@ -14,11 +14,11 @@
 
             <StackLayout>
                 <Button x:Name="Item1" Text="ButtonDemo" Clicked="Item1_Clicked"/>
-                <Button x:Name="Item2" Text="ButtonCode"/>
-                <Button x:Name="Item4" Text="EditorDemo"/>
-                <Button x:Name="Items" Text="EditorCode"/>
-                <Button x:Name="Item6" Text="EntryDemo"/>
-                <Button x:Name="Item7" Text="EntryCode"/>
+                <Button x:Name="Item2" Text="ButtonCode" Clicked="Item2_Clicked"/>
+                <Button x:Name="Item3" Text="EditorDemo" Clicked="Item3_Clicked"/>
+                <Button x:Name="Item4" Text="EditorCode" Clicked="Item4_Clicked"/>
+                <Button x:Name="Item5" Text="EntryDemo" Clicked="Item5_Clicked"/>
+                <Button x:Name="Item6" Text="EntryCode" Clicked="Item6_Clicked"/>
             </StackLayout>
             <StackLayout>
                 <Button x:Name="Item8" Text="LabelDemo"/>
